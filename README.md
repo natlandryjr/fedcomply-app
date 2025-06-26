@@ -1,4 +1,4 @@
-# FedComply-App: Enterprise Cybersecurity Compliance Platform
+# FedComply.App: Enterprise Cybersecurity Compliance Platform
 
 ## 🛡️ Overview
 
