@@ -2,7 +2,7 @@
 
 ## 🛡️ Overview
 
-FedComply-App is a next-generation cybersecurity compliance platform designed for federal, state, and local government agencies. Built with modern React frontend and robust PHP backend, it provides comprehensive compliance management for NIST 800-171, CMMC, and other cybersecurity frameworks.
+FedComply.App is a next-generation cybersecurity compliance platform designed for federal, state, and local government agencies. Built with modern React frontend and robust PHP backend, it provides comprehensive compliance management for NIST 800-171, CMMC, and other cybersecurity frameworks.
 
 ## 🚀 Key Features
 
